@@ -1,0 +1,12 @@
+# Data & Math
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+SQLAlchemy>=2.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Broker API
+upstox-python-sdk>=2.0.0
